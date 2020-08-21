@@ -1,0 +1,48 @@
+/*书库页面==============================================================*/
+.stack_room{width:960px;margin:0px auto;clear:both;overflow:hidden;}
+.stack_room_l{width:190px; float:left; border-right:1px solid #d8d8d8;}
+/*.stack_room_l .stack_room_cur{height:40px; line-height:40px; background:url(images/s_r_line_03.jpg) right top no-repeat; background-color:#f4f4f4; padding-left:20px;}*/
+.left_a{width:158px;height:40px; line-height:40px; background:url(images/s_r_line_03.jpg) right top no-repeat; background-color:#f4f4f4; padding-left:20px;}
+.stack_room_l .stack_room_cur a{width:108px;}
+.stack_room_l li{height:39px; line-height:39px; padding-left:32px; font-size:12px; border-bottom:1px dashed #e6e6e6;}
+.stack_room_l li a{ display:inline-block; width:108px; color:#522303;}
+.stack_room_l li span{color:#919191;}
+.stack_room_l .tj{ font-size:18px; color:#522303; margin-top:40px; height:40px; line-height:40px; border-bottom:1px solid #d8d8d8;}
+.tj1{margin:30px 0 0 10px; display:inline-block; height:110px;}
+.stack_room_r{width:740px; float:right;}
+.stack_room_tit{height:40px; line-height:40px; border-bottom:1px solid #d8d8d8; font-size:24px; color:#208181;}
+.sr_list{margin-top:22px; height:45px;}
+.sr_list1{height:25px;}
+.sr_list2{height:45px; border-bottom:1px solid #d8d8d8;}
+.sr_list dt{width:76px; float:left; font-size:12px;}
+.sr_list dt span{ display:inline-block; width:76px;height:22px; line-height:22px; width:60px; color:#000; background-color:#ccc; text-align:center; }
+ .a{ display:inline-block; height:22px; line-height:22px; width:60px; color:#fff; background-color:#208181; text-align:center;text-shadow:1px 1px 1px rgba(0,0,0,0.75);}
+.sr_list dt .b{ display:inline-block; height:22px; line-height:22px; width:60px; color:#000; background-color:#ccc; text-align:center; }
+.sr_list dt a:hover{ background-color:#ffa467;}
+.sr_list dd{width:588px; float:left;}
+.sr_list dd a:hover{color:#ffa467;}
+.sr_list dd a{margin-right:8px;display:inline-block; line-height:22px;}
+.writer_i_4{height:170px; margin-top:30px; color:#666;border-bottom:1px solid #ddd}
+.writer_i_4 dt{width:135px; float:left;}
+.writer_i_4 dt img{border:1px solid #d8d8d8; padding:2px;}
+.writer_i_4 dd{width:595px; float:left;}
+.writer_name1{height:26px; line-height:26px;}
+.writer_name1 strong{ font-size:14px; color:#522303; margin-right:38px;} 
+.writer_name2{height:28px; line-height:28px;}
+.writer_name2 span{margin-right:24px; float:left;}
+.writer_name2 span i{ font-style:normal; color:#fe7d00; width:90px;}
+.writer_name2 a{ display:inline-block; height:25px; line-height:25px; width:65px; background-color:#74bdea; font-size:12px; text-align:center; color:#fff; float:right;}
+.writer_name2 a:hover{ background-color:#A06D47;}
+.writer_name2 a.orag{margin-left:5px; background-color:#ffa650;}
+.writer_name2 a.orag:hover{ background-color:#A06D47;}
+.writer_name3{ line-height:22px; text-indent:2em;}
+.writer_name4 a{color:#74bdea;}
+.writer_name4 span{color:#a7a7a7;}
+.sr_page{margin-bottom:30px;}
+.entry{width:185px;float:left; margin-right:3%; height:60px; line-height:57px; background:url(/Public/images/images/user2_03.png) 83px center no-repeat; text-align:right;}
+.pager{text-align:right;height:35px;line-height:35px;}
+.pager .info{ float:left;}
+.pager a,.pager .current{ border:1px solid #cfcfcf; padding:4px 8px; margin:0 2px;color:#333}
+.pager a:hover{ text-decoration:none;color:#ff9e40; border-color:#ff9e40;}
+.pager .current{background-color:#ff9e40;color:#fff; border-color:#ff9e40;}
+.pager span{ margin:0 2px;}
